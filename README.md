@@ -28,3 +28,4 @@ Lakoff 1970 QL
 **Existential closure**
 
 ## Schein's Observation
+Three Quaterback
