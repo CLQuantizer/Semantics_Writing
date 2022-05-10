@@ -1,3 +1,8 @@
+
+what is go?
+
+but I don;t know
+
 A line from shit but not from da
 
 Another line from shit
