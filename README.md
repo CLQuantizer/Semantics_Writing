@@ -1,19 +1,4 @@
 
-what is go?
-
-but I don;t know
-
-A line from shit but not from da
-
-Another line from shit
-
-A line from da
-
-Seoncd line from da
-
-Third line from shit
-
-FThird line from da
 
 
 ## what is neo-davidsonian
