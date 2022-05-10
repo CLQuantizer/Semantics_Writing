@@ -42,3 +42,5 @@ Lakoff 1970 QL
 
 ## Schein's Observation
 Three Quaterback
+
+what is go?
