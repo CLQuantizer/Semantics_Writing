@@ -49,3 +49,7 @@ Lakoff 1970 QL
 Three Quaterback
 
 what is go?
+
+but I don;t know go2
+
+
