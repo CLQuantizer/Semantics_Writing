@@ -49,7 +49,7 @@ Lakoff 1970 QL
 Three Quaterback
 
 what is go?
-<<<<<<< HEAD
+
 but I don;t know go2
-=======
->>>>>>> 1a9217098f4d8d962b92b01e1df4838cc932813f
+
+
